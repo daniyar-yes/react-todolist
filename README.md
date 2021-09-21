@@ -1,2 +1,2 @@
-﻿# react-todolist
-React To-Do-List app
+﻿# To-Do-List app on React.js
+React JS task tracker app
